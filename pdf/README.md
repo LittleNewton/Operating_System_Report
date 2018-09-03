@@ -1,0 +1,1 @@
+Pdf file output by word document with Adobe PDFmaker
